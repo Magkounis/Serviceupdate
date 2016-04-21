@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Service1\Service1\bin\Debug\Service1.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Service1\Service1\obj\x86\Debug\Service1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Service1\Service1\obj\x86\Debug\Service1.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Service1\Service1\obj\x86\Debug\Service1.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Service1\Service1\obj\x86\Debug\Service1.csproj.GenerateResource.Cache

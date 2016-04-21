@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Service1\Service1\bin\Debug\Service1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
